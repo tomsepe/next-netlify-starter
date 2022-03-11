@@ -6,15 +6,22 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>So You Think Youre An Artist?</title>
+        <title>WELCOME!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to So You Think Youre an Artist" />
+        <h2>Coming Soon: </h2>
+        <Header title="So You Think You&apos;re an Artist Podcast" />
+
         <p>
-    Check out our <a href = "https://www.patreon.com/thinkart">Patreon Page!</a>
+        <img src="/images/logo.png" width="400" height="400" />
         </p>
+
+                <p><h2>
+    Please visit out our <a href = "https://www.patreon.com/thinkart">Patreon Page!</a>
+        </h2></p>
+        
       </main>
 
       <Footer />
