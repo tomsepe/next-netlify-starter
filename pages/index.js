@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to So You Think You;re an Artist />
+        <Header title="Welcome to So You Think Youre an Artist" />
         <p>
-          Check out our Patreon Page!
+    Check out our <a href = "https://www.patreon.com/thinkart">Patreon Page!</a>
         </p>
       </main>
 
