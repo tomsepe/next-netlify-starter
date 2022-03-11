@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to So You Think You;re an Artist />
         <p className="description">
-          Check out our <a href = "https://www.patreon.com/soyouthink">Patreon Page!</a>
+          Check out our <Link to="https://www.patreon.com/thinkart">Patreon Page!</Link>
         </p>
       </main>
 
