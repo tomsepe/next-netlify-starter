@@ -1,4 +1,4 @@
-import Head from 'next/head'
+out import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to So You Think You;re an Artist />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Check out our <a href = "http://patreon.com">Patreon Page!</a>
         </p>
       </main>
 
