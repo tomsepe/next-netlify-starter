@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h2>Coming Soon: </h2>
-        <Header title="So You Think You&apos;re an Artist Podcast" />
+        <Header title="So You Think You're an Artist Podcast" />
 
         <p>
         <img src="/images/logo.png" width="400" height="400" />
