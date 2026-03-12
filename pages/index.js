@@ -18,9 +18,9 @@ export default function Home() {
         <img src="/images/logo.png" width="400" height="400" />
         </p>
 
-        <p><h2>
+        <h2>
             Please visit out our <a href="https://www.patreon.com/thinkart">Patreon Page!</a>
-        </h2></p>
+        </h2>
         
       </main>
 
